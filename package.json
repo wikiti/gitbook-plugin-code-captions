@@ -21,7 +21,7 @@
   "name": "gitbook-plugin-code-captions",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wikiti/gitbook-plugin-code-captions.git"
+    "url": "https://github.com/wikiti/gitbook-plugin-code-captions.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }

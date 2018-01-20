@@ -1,5 +1,5 @@
 div.code-caption {
-  /* TODO: Page break management */
+  /* Page break management */
   page-break-inside: avoid;
 }
 
