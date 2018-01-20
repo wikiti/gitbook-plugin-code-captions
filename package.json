@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name": "wikiti"
+  },
+  "bugs": {
+    "url": "https://github.com/wikiti/gitbook-plugin-code-captions/issues"
+  },
+  "description": "Add captions to code blocks in GitBooks",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/wikiti/gitbook-plugin-code-captions",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "info@danielherzog.es",
+      "name": "wikiti"
+    }
+  ],
+  "name": "gitbook-plugin-code-captions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikiti/gitbook-plugin-code-captions.git"
+  },
+  "version": "0.0.1"
+}
