@@ -1,4 +1,4 @@
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md) [![npm version](https://badge.fury.io/js/gitbook-plugin-code-captions.svg)](https://badge.fury.io/js/gitbook-plugin-code-captions)
 
 # Gitbook Plugin: Add captions to code snippets
 
@@ -39,7 +39,7 @@ Generating the following result:
 
 ![Sample](docs/sample.png)
 
-To override the CSS style, include this in your css files:
+To override the CSS style, include this in your CSS files:
 
 ```css
 div.code-caption > span.code-caption-text {
@@ -50,7 +50,7 @@ div.code-caption > span.code-caption-text {
 
 Generating the following result:
 
-![Custom sample](sample_custom.png)
+![Custom sample](docs/sample_custom.png)
 
 ## Contributors
 
